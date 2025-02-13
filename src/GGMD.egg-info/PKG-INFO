@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: GGMD
+Version: 1.0
+Summary: A generalized generative molecular design framework.
+Author-email: "Sean T. Black" <your.email@example.com>, Pinyi Lu <your.email@example.com>, Jingchao Zhang <your.email@example.com>
+License: MIT
+Requires-Dist: torch>=2.0
+Requires-Dist: rdkit>=2020.09.5
